@@ -1,0 +1,4 @@
+LIBRARY FileLockShell
+EXPORTS
+    DllGetClassObject PRIVATE
+    DllCanUnloadNow PRIVATE
